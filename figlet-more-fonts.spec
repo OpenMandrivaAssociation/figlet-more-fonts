@@ -12,7 +12,6 @@ Source3: ms-dos.tar.bz2
 License: Artistic
 Group: Toys
 Url: http://ianchai.50megs.com/figlet.html
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildArch: noarch
 Requires: figlet
 
