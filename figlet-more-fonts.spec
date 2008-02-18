@@ -1,6 +1,6 @@
 %define name figlet-more-fonts
 %define version 20040514
-%define release %mkrel 5
+%define release %mkrel 6
 
 Summary: Program for making large letters out of ordinary text 
 Name: %{name}
