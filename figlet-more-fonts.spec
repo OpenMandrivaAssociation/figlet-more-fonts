@@ -2,7 +2,7 @@
 %define version 20040514
 %define release %mkrel 5
 
-Summary: FIGlet is a program for making large letters out of ordinary text 
+Summary: Program for making large letters out of ordinary text 
 Name: %{name}
 Version: %{version}
 Release: %{release}
